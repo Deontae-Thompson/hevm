@@ -12,6 +12,6 @@
   },
   "dependencies": {
     "highlight.js": "^10.7.3",
-    "highlightjs-solidity": "^2.0.5"
+    "highlightjs-solidity": "^2.0.6"
   }
 }
