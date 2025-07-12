@@ -7,7 +7,7 @@
     "fmt:docs": "npx prettier@next --config .prettierrc.js --write '**/*.md' --no-cache"
   },
   "devDependencies": {
-    "parcel": "^2.8.1",
+    "parcel": "^2.15.4",
     "prettier": "^4.0.0-alpha.8"
   },
   "dependencies": {
